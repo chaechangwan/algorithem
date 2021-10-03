@@ -33,7 +33,7 @@
 - [2002 추월](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj2002%EC%B6%94%EC%9B%94.ipynb)
 - [2012 등수 매기기](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj2012.ipynb)
 - [20365 블로그2](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj20365%20%EB%B8%94%EB%A1%9C%EA%B7%B82.ipynb)
-- [2110 공유기](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj2110%20%EA%B3%B5%EC%9C%A0%EA%B8%B0%E2%98%86%20(2%EC%B0%A8%EC%8B%9C%EB%8F%84%EC%8B%A4%ED%8C%A8).ipynb
+- [2110 공유기](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj2110%20%EA%B3%B5%EC%9C%A0%EA%B8%B0%E2%98%86%20(2%EC%B0%A8%EC%8B%9C%EB%8F%84%EC%8B%A4%ED%8C%A8).ipynb)
 - [2624 두 용액](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj2624%20%EB%91%90%EC%9A%A9%EC%95%A1.ipynb)
 - [2636 치즈](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj2636%20%EC%B9%98%EC%A6%88.ipynb)
 - [3085 사탕게임](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj3085%20%EC%82%AC%ED%83%95%EA%B2%8C%EC%9E%84.ipynb)
