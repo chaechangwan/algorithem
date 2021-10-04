@@ -10,6 +10,7 @@
 - [17086 아기상어2 (ver1)](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj17086%20%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B42.ipynb)
 - [17086 아기상어2 (ver2)](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj17086%20%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B42%20ver2.ipynb)
 - [16987 계란으로 계란치기](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%2016987%20%EA%B3%84%EB%9E%80%EC%9C%BC%EB%A1%9C%20%EA%B3%84%EB%9E%80%EC%B9%98%EA%B8%B0.ipynb)
+- [1780 종이의 개수](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%201780%20%EC%A2%85%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98.ipynb)
 - [2615 오목](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%2016987%20%EA%B3%84%EB%9E%80%EC%9C%BC%EB%A1%9C%20%EA%B3%84%EB%9E%80%EC%B9%98%EA%B8%B0.ipynb)
 - [2624 동전바꿔주기 (ver1)](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%202624%20ver1.ipynb)
 - [2624 동전바꿔주기 (ver2)](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%202624%20ver2.ipynb)
