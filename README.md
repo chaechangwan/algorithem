@@ -7,6 +7,7 @@
 - [14503 로봇청소기](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%2014503%20%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0%20%E2%98%86.ipynb)
 - [15787 기차가 어둠을 헤치고](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%2015787%20%EA%B8%B0%EC%B0%A8%EA%B0%80%20%EC%96%B4%EB%91%A0%EC%9D%84%20%ED%97%A4%EC%B9%98%EA%B3%A0.ipynb)
 - [16236 아기상어](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%2016236%20%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4%E2%98%86.ipynb)
+- [16973 직사각형 탈출](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%2016973%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%ED%83%88%EC%B6%9C.ipynb)
 - [17086 아기상어2 (ver1)](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj17086%20%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B42.ipynb)
 - [17086 아기상어2 (ver2)](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj17086%20%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B42%20ver2.ipynb)
 - [16987 계란으로 계란치기](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%2016987%20%EA%B3%84%EB%9E%80%EC%9C%BC%EB%A1%9C%20%EA%B3%84%EB%9E%80%EC%B9%98%EA%B8%B0.ipynb)
