@@ -1,6 +1,7 @@
 # algorithem 문제 풀이
 
 ## 백준(BACKJOON)
+- [1052 물병](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%201052%20%EB%AC%BC%EB%B3%91.ipynb)
 - [10971 외판원 순회2](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%2010971%20%EC%99%B8%ED%8C%90%EC%9B%90%20%EC%88%9C%ED%9A%8C2.ipynb)
 - [11000 강의실배정](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%2011000%EA%B0%95%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95.ipynb)
 - [1107 리모컨](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%201107%20%EB%A6%AC%EB%AA%A8%EC%BB%A8%20%E2%98%86.ipynb)
