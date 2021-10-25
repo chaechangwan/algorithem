@@ -1,6 +1,7 @@
 # algorithem 문제 풀이
 
 ## 백준(BACKJOON)
+- [12904 A와 B](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj12904%20A%EC%99%80%20B.ipynb)
 - [16918 에너지 모으기](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%2016918%20%EC%97%90%EB%84%88%EC%A7%80%20%EB%AA%A8%EC%9C%BC%EA%B8%B0.ipynb)
 - [1052 물병](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%201052%20%EB%AC%BC%EB%B3%91.ipynb)
 - [10971 외판원 순회2](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj%2010971%20%EC%99%B8%ED%8C%90%EC%9B%90%20%EC%88%9C%ED%9A%8C2.ipynb)
