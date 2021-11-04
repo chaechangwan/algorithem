@@ -25,6 +25,7 @@
 - [1041 주사위](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj1041%20%EC%A3%BC%EC%82%AC%EC%9C%84.ipynb)
 - [11055 가장 큰 증가하는 부분수열](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj11055.ipynb)
 - [11060 점프 점프](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj11060%20%EC%A0%90%ED%94%84%EC%A0%90%ED%94%84%E2%98%86.ipynb)
+- [11725 트리의 부모 찾기](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj11725%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0.ipynb)
 - [12865 평범한 배낭](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj12865%20%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD.ipynb)
 - [1303 전투](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj1303%EC%A0%84%ED%88%AC.ipynb)
 - [1309 동물원](https://github.com/chaechangwan/algorithem/blob/master/%EB%B0%B1%EC%A4%80/boj1309%20%EB%8F%99%EB%AC%BC%EC%9B%90%20%E2%98%86%EB%8B%A4%EC%8B%9C%ED%92%80%EC%97%88%EB%8A%94%EB%8D%B0%EB%8F%84%20%EB%AA%BB%ED%92%88.ipynb)
